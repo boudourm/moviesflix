@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorBgTheme">#000000</color>
+    <color name="colorBgMovie">#181717</color>
+    <color name="colorBgSearch">#3A3A3A</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">#F44336</color>
+    <color name="colorText">#D8D8D8</color>
+    <color name="colorBg">#2a3345</color>
+    <color name="gradientBg">#2a3345</color>
+    <color name="gradientBgFkBlr">#ff2a3345</color>
+</resources>

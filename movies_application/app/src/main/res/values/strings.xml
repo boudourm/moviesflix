@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MoviesFlix</string>
+    <string name="something_went_wrong">Something went wrong apparently…Please try again later!</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="sort_movies">Sort</string>
+    <string name="popular_movies">Most Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="favorite_movies">Favorites</string>
+    <string name="sort_popularity">Popular</string>
+    <string name="sort_top_rated">Top Rated</string>
+    <string name="sort_upcoming">Upcoming</string>
+    <string name="movie_overview_label">About the movie : </string>
+    <string name="trailer">Trailers : </string>
+    <string name="sort_by_favorites">Favorites</string>
+    <string name="read_user_reviews">Read user reviews</string>
+    <string name="movie_removed_from_favorites">Movie removed from favorites</string>
+    <string name="movie_added_to_favorites">Movie added to favorites</string>
+    <string name="no_internet_message">You must have an internet connection to use this app! Please try again when you have internet access.</string>
+    <string name="refresh">Refresh</string>
+    <string name="movie_trailer_icon">Movie trailer icon</string>
+    <string name="search_hint">Search movie...</string>
+    <string name="search_results">Search Results :</string>
+    <string name="no_search_results">No results...</string>
+</resources>
